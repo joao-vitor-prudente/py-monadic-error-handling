@@ -1,0 +1,4 @@
+This module is open source and can be used in any project. It is also available on my GitHub through the link below.
+https://github.com/joao-vitor-prudente/monadic-error-handling/
+
+If you have any questions or suggestions, please create an issue on the project's the GitHub page.
